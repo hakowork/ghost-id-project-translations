@@ -71,5 +71,12 @@ return {
     ["FeedbackNotValid"] = "Masukan harus lebih dari 5 kata",
     ["FeedbackSended"] = "Masukan terkirim ke Developer",
     ["FeedbackMessage"] = "Tulis masukanmu disini",
-    ["Open"] = "Buka"
+    ["Open"] = "Buka",
+
+    ["YouDied"] = "Kamu Mati",
+    ["JoinGame"] = "Join Game",
+    ["JoinGameInteract"] = "TEKAN <b>[ G ]</b> UNTUK JOIN GAME",
+    ["BossMode"] = "Mode Bos!",
+    ["AngryMode"] = "Mode Marah",
+    ["Possessed"] = "Kesurupan"
 }
