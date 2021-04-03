@@ -71,5 +71,12 @@ return {
     ["FeedbackNotValid"] = "Feedback must be more than 5 character",
     ["FeedbackSended"] = "Feedback send to Developer",
     ["FeedbackMessage"] = "Write your feedback here",
-    ["Open"] = "Open"
+    ["Open"] = "Open",
+
+    ["YouDied"] = "You Died",
+    ["JoinGame"] = "Join Game",
+    ["JoinGameInteract"] = "PRESS <b>[ G ]</b> TO JOIN GAME",
+    ["BossMode"] = "Boss Mode!",
+    ["AngryMode"] = "Angry Mode",
+    ["Possessed"] = "Possessed"
 }
