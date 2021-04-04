@@ -36,9 +36,9 @@ return {
     ["SurviveRound"] = "<font color='rgb(85,170,127)'>[%s]</font> <font color='rgb(255,255,127)'>[%s]</font> Survive Round",
     ["SurviveRoundBoss"] = "<font color='rgb(85,170,127)'>[%s]</font> <font color='rgb(255,255,127)'>[%s]</font>You Guys Success Kill The Boss!",
 
-    ["NoPlayerIntermission"] = "There no player, do intermission again..",
+    ["NoPlayerIntermission"] = "There is no player in this server, do intermission again...",
     ["LoadingMap"] = "Loading map",
-    ["Gameover"] = "Gameover",
+    ["Gameover"] = "Game over",
     ["EndWave"] = "Wave %s over",
     ["StartWave"] = "Starting Wave %s",
     ["TeleportingPlayer"] = "Teleporting player",
@@ -52,12 +52,12 @@ return {
     ["Dash"] = "Dash",
     ["Revive"] = "Revive",
 
-    ["NoPlayerSpectate"] = "There no player can you spectate",
-    ["SpectateNote"] = "You are spectate right now, to quit press [ T ]",
+    ["NoPlayerSpectate"] = "There is no player you can spectate",
+    ["SpectateNote"] = "You are spectating right now. To quit, press [ T ]",
     ["Spectate"] = "Spectate",
 
     ["GameTutorial"] = "Game Tutorial",
-    ["GameTutorialNote"] = "How to play? just kill the ghost with weapon, by pressing [ 1 ] [ 2 ] to equip weapon or on mobile click box button in the middle bottom, this game basically like another zombie wave game in roblox",
+    ["GameTutorialNote"] = "How to play? Kill the ghost with weapon, press [ 1 ] [ 2 ] to equip weapon. If you're on mobile, click box button in the middle bottom. This game is basically like another zombie wave game in roblox",
     ["Control"] = "Controls",
     ["ControlNote"] = "Inventory - [ I ]<br />Spectate - [ T ]<br />Leaderboard - [ Tab ]<br />Dash - [ Space ]<br />Change Weapon - [ 1 ] [ 2 ]",
     ["Close"] = "Close",
@@ -69,7 +69,7 @@ return {
     ["FeedbackSendLater"] = "Send feedback later",
     ["FeedbackCooldown"] = "Cooldown (%s)",
     ["FeedbackNotValid"] = "Feedback must be more than 5 character",
-    ["FeedbackSended"] = "Feedback send to Developer",
+    ["FeedbackSended"] = "Feedback sent to Developer",
     ["FeedbackMessage"] = "Write your feedback here",
     ["Open"] = "Open",
 
