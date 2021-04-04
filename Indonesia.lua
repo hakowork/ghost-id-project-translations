@@ -1,5 +1,5 @@
 return {
-    ["SelectLanguage"] = "Select Language",
+    ["SelectLanguage"] = "Pilih Bahasa",
     ["LoadingAsset"] = "Memuat Asset",
     ["LoadingData"] = "Memuat Data",
     ["LoadingComplete"] = "Selesai Memuat",
