@@ -1,5 +1,5 @@
 return {
-    ["SelectLanguage"] = "Pilih Bahasa",
+    ["SelectLanguage"] = "Select Language",
     ["LoadingAsset"] = "Loading Asset",
     ["LoadingData"] = "Loading Data",
     ["LoadingComplete"] = "Loading Complete",
