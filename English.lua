@@ -28,6 +28,7 @@ return {
     ["Assist"] = "Assist",
     ["Leaderboard"] = "Leaderboard",
     ["Name"] = "Name",
+    ["HighestWave"] = "Highest Wave",
 
     ["RevivePossessed"] = "PRESS <b>[ F ]</b> TO REVIVE",
     ["PlayerPossessed"] = "%s Has Been Possessed",
@@ -103,7 +104,7 @@ return {
     ["FailedBuy"] = "Failed to buy",
     ["SuccessBuy"] = "Success to buy",
     ["AlreadyBuy"] = "You already buy the item",
-    ["YourMoney"] = "Your Money",
+    ["Money"] = "Money",
     ["MoneyNotEnough"] = "Your money not enough",
     ["MapCinematic"] = "%s Created by %s",
     ["BoughtAllStuff"] = "You Already Bought all stuff!"
