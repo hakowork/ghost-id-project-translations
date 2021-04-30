@@ -28,6 +28,7 @@ return {
     ["Assist"] = "Membantu",
     ["Leaderboard"] = "Papan Pemimpin",
     ["Name"] = "Nama",
+    ["HighestWave"] = "Gelombang Tertinggi",
 
     ["RevivePossessed"] = "TEKAN <b>[ F ]</b> UNTUK MENYELAMATKAN",
     ["PlayerPossessed"] = "%s Telah Kesurupan",
@@ -103,7 +104,7 @@ return {
     ["FailedBuy"] = "Gagal membeli",
     ["SuccessBuy"] = "Berhasil membeli",
     ["AlreadyBuy"] = "Kamu sudah membeli item ini",
-    ["YourMoney"] = "Uang Kamu",
+    ["Money"] = "Uang",
     ["MoneyNotEnough"] = "Uang kamu tidak cukup",
     ["MapCinematic"] = "%s Dibuat Oleh %s",
     ["BoughtAllStuff"] = "Anda Sudah Membeli semua barang!"
