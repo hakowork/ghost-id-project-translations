@@ -62,7 +62,7 @@ return {
     ["GameTutorial"] = "Tutorial Permainan",
     ["GameTutorialNote"] = "Bagaimana cara bermain? ya bunuh hantunya pake senjata, tekan [ 1 ] [ 2 ] untuk pake senjata atau jika di HP/Tablet klik tombol kotak di tenggah bawah, game ini pada dasarnya kek game zombie di roblox",
     ["Control"] = "Controls",
-    ["ControlNote"] = "Inventory - [ I ]<br />Nonton - [ T ]<br />Papan Pemimpin - [ Tab ]<br />Dash - [ Space ]<br />Ganti Senjata - [ 1 ] [ 2 ]",
+    ["ControlNote"] = "Menu - [ M ]<br />Nonton - [ T ]<br />Papan Pemimpin - [ Tab ]<br />Dash - [ Space ]<br />Ganti Senjata - [ 1 ] [ 2 ]",
     ["Close"] = "Tutup",
     ["GameTutorialClose"] = "Tekan [ Space ] atau Klik Ini untuk Menutup",
 

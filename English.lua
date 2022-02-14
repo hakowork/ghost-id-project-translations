@@ -62,7 +62,7 @@ return {
     ["GameTutorial"] = "Game Tutorial",
     ["GameTutorialNote"] = "How to play? Kill the ghost with weapon, press [ 1 ] [ 2 ] to equip weapon. If you're on mobile, click box button in the middle bottom. This game is basically like another zombie wave game in roblox",
     ["Control"] = "Controls",
-    ["ControlNote"] = "Inventory - [ I ]<br />Spectate - [ T ]<br />Leaderboard - [ Tab ]<br />Dash - [ Space ]<br />Change Weapon - [ 1 ] [ 2 ]",
+    ["ControlNote"] = "Menu - [ M ]<br />Spectate - [ T ]<br />Leaderboard - [ Tab ]<br />Dash - [ Space ]<br />Change Weapon - [ 1 ] [ 2 ]",
     ["Close"] = "Close",
     ["GameTutorialClose"] = "Press [ Space ] or Click This to Close",
 
