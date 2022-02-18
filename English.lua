@@ -107,5 +107,11 @@ return {
     ["Money"] = "Money",
     ["MoneyNotEnough"] = "You don't have enough money to buy this item.",
     ["MapCinematic"] = "%s Created by %s",
-    ["BoughtAllStuff"] = "You already bought everything in the shop!"
+    ["BoughtAllStuff"] = "You already bought everything in the shop!",
+
+    ["CodeError"] = "Invalid code or is expired",
+    ["CodeSuccess"] = "Code Success Redeemed, You Get %s",
+    ["CodeInput"] = "Input Your Code Here",
+    ["CodeTitle"] = "Promo Code",
+    ["CodeNote"] = "You can get the code from Community Server/Forum or Group Shout in bakahu group"
 }

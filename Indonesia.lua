@@ -107,5 +107,11 @@ return {
     ["Money"] = "Uang",
     ["MoneyNotEnough"] = "Uang kamu tidak cukup",
     ["MapCinematic"] = "%s Dibuat Oleh %s",
-    ["BoughtAllStuff"] = "Anda Sudah Membeli semua barang!"
+    ["BoughtAllStuff"] = "Anda Sudah Membeli semua barang!",
+
+    ["CodeError"] = "Kode salah atau sudah kedaluwarsa",
+    ["CodeSuccess"] = "Kode berhasil dipakai, Kamu mendapatkan %s",
+    ["CodeInput"] = "Masukan kodemu disini",
+    ["CodeTitle"] = "Promo Kode",
+    ["CodeNote"] = "Kamu bisa mendapatkan kode dari Server Komunitas/Forum atau Group Shout di bakahu group"
 }
