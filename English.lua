@@ -113,5 +113,8 @@ return {
     ["CodeSuccess"] = "Code Success Redeemed, You Get %s",
     ["CodeInput"] = "Input Your Code Here",
     ["CodeTitle"] = "Promo Code",
-    ["CodeNote"] = "You can get the code from Community Server/Forum or Group Shout in bakahu group"
+    ["CodeNote"] = "You can get the code from Community Server/Forum or Group Shout in bakahu group",
+    
+    ["Play"] = "Play",
+    ["EmoteNote"] = "press the key 1 - 4 or click the box to play emote"
 }

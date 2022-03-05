@@ -113,5 +113,8 @@ return {
     ["CodeSuccess"] = "Kode berhasil dipakai, Kamu mendapatkan %s",
     ["CodeInput"] = "Masukan kodemu disini",
     ["CodeTitle"] = "Promo Kode",
-    ["CodeNote"] = "Kamu bisa mendapatkan kode dari Server Komunitas/Forum atau Group Shout di bakahu group"
+    ["CodeNote"] = "Kamu bisa mendapatkan kode dari Server Komunitas/Forum atau Group Shout di bakahu group",
+
+    ["Play"] = "Mulai",
+    ["EmoteNote"] = "tekan 1 - 4 atau klik kotak untuk memainkan emote"
 }
