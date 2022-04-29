@@ -1,2 +1,2 @@
-# ghost-id-project-translations
+# ghost id project translations
 help us translate ghost id project into your language
