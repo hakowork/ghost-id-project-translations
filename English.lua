@@ -2,7 +2,7 @@ return {
     ["SelectLanguage"] = "Select Language",
     ["LoadingAsset"] = "Loading Assets",
     ["LoadingData"] = "Loading Data",
-    ["LoadingComplete"] = "Loading Complete",
+    ["LoadingComplete"] = "Loading Completed",
     ["Loading"] = "Loading",
 
     ["Weapon"] = "Weapons",
@@ -62,13 +62,13 @@ return {
     ["GameTutorial"] = "Game Tutorial",
     ["GameTutorialNote"] = "How to play? Kill the ghost with weapon, press [ 1 ] [ 2 ] to equip weapon. If you're on mobile, click box button in the middle bottom. This game is basically like another zombie wave game in roblox",
     ["Control"] = "Controls",
-    ["ControlNote"] = "Menu - [ M ]<br />Spectate - [ T ]<br />Leaderboard - [ Tab ]<br />Dash - [ Space ]<br />Change Weapon - [ 1 ] [ 2 ]",
+    ["ControlNote"] = "Menu - [ M ]<br />Spectate - [ T ]<br />Leaderboard - [ Tab ]<br />Dash - [ Q ]<br />Jump - [ Space ]<br />Change Weapon - [ 1 ] [ 2 ]",
     ["Close"] = "Close",
     ["GameTutorialClose"] = "Press [ Space ] or Click This to Close",
 
     ["FeedbackInteract"] = "PRESS <b>[ F ]</b> TO OPEN FEEDBACK CENTER",
     ["FeedbackTitle"] = "Feedback Center",
-    ["FeedbackSend"] = "Send To Developer",
+    ["FeedbackSend"] = "Send to Developer",
     ["FeedbackSendLater"] = "Send feedback later",
     ["FeedbackCooldown"] = "Cooldown (%s)",
     ["FeedbackNotValid"] = "Feedback must be more than 5 character",
@@ -113,8 +113,8 @@ return {
     ["CodeSuccess"] = "Code Success Redeemed, You Get %s",
     ["CodeInput"] = "Input Your Code Here",
     ["CodeTitle"] = "Promo Code",
-    ["CodeNote"] = "You can get the code from Community Server/Forum or Group Shout in bakahu group",
-    
+    ["CodeNote"] = "You can get the code from Community Server/Forum or Group Shout in hakowork group",
+
     ["Play"] = "Play",
     ["EmoteNote"] = "press the key 1 - 4 or click the box to play emote"
 }
